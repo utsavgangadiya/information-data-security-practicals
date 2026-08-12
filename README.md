@@ -292,22 +292,6 @@ The practicals may use different tools and technologies depending on the require
 
 ---
 
-# 📁 Recommended Structure for Each Practical
-
-Each practical should follow a consistent structure.
-
-```text
-practical-folder/
-│
-├── README.md
-├── report/
-│   └── report.docx
-├── src/
-│   └── code-files
-├── screenshots/
-├── results/
-└── resources/
-```
 
 Not every practical needs every folder.
 
